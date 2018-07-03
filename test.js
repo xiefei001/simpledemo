@@ -1,2 +1,1 @@
-var s = 'test';
-var m = 3;
+var s ='test';
